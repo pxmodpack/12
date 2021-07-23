@@ -1,0 +1,113 @@
+@media (max-width: 1320px) {
+.double p {
+    padding-top: 17px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.5px;
+    line-height: 201.19%;
+    color: #BEC5D6;
+}
+    
+}
+
+@media (max-width: 1264px) {
+.wrapper {
+   
+    max-width: 1000px;
+    
+    }
+   
+}
+  @media (max-width: 1266px) {
+      
+    .double p {
+    padding-top: 17px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 201.19%;
+    color: #BEC5D6;
+}  
+      .double h1 {
+    padding-top: 16px;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 29px;
+    line-height: 151.19%;
+    color: #F0F0F0;
+}
+      .buttons {
+    color: #E0E0E0;
+    font-weight: 400;
+    display: flex;
+    font-family: Work Sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11.5px;
+    margin-top: 47px;
+    padding-left: 30px;
+}
+      .intro_button1 {
+    
+    margin-left: 305px;
+    
+    
+}
+      .lese-block2 {
+    
+    margin-left: 200px;
+
+}
+      .lese-block3 {
+    
+    margin-left: 300px;
+
+}
+.intro_button {
+	margin-left:320px;
+}
+}
+
+@media (max-width: 1100px) {
+.wrapper {
+   
+    max-width: 900px;
+    
+    }}
+@media (max-width: 1110px) {
+.buttons {
+    position: absolute;
+        margin-left: 295px;
+    padding-left: 0px;
+    }
+  .lese-block2 {
+    
+    margin-left: 150px;
+
+}
+      .lese-block3 {
+    
+    margin-left: 250px;
+
+}
+    .intro_button1 {
+    
+    margin-left: 200px;
+    
+    
+}
+    .intro {
+   
+    background: no-repeat url("../img/fonther.png");
+    
+}
+    .double_button{
+        position: absolute;
+    }
+	.intro_button {
+	margin-left:260px;
+}
+}
